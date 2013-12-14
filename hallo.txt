@@ -1,3 +1,7 @@
 Hello, World!
 
 Adding some more text to this Hallo-World text from Hallo-World repo. ~hr apart.
+
+
+had to use git pull origin master, this fetch and merges.
+git pull pulls and merges with the current branch so it depends on what branch is checked out. detached head with no branch checked out. what to pull???
